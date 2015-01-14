@@ -1,0 +1,2 @@
+# quantum-simulator
+This is a simulation of a quantum computer simulating many-body quantum physics. From my thesis: "We used the Jordan-Wigner transformation to develop a program that can take any two-body fermionic Hamiltonian and output the qubit gates a quantum computer needs to simulate the time evolution of that Hamiltonian. We then incorporated this into a quantum computer simulator, to show how this general fermionic simulator finds the eigenvalues of the Hubbard and pairing models."
