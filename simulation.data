@@ -1,0 +1,5 @@
+12 9 1.0 1.0 1.0 3 5000 100000 1
+ //noOfQubits << " " << firstSimQubit << " " << d << " " << 
+//g << " " << deltaT << Emax << noOfTimesUisRun << noOfMeasurements
+// << noOfRuns
+	
