@@ -37,7 +37,9 @@ The main code is written in C++, using the [blitz++](https://en.wikipedia.org/wi
 + ny.cpp: New function definitions.
 + ny.h: Corresponding library file.
 + blitz2mat.cpp: Converts the output files from blitz format to octave readable.
-
++ analysis.m: Performs analysis of simulation, calls fig.m.
++ fig.m: Plots the resulting energy spectrum.
++ EogT.m: Calculates delta t and Emax from desired start and end of spectrum.
 
 ### Compile commands
 See Makefile.
